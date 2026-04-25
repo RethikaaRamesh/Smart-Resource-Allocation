@@ -111,7 +111,7 @@ POST	/predict	ML prediction
 
 🧪 Sample Input
 
-TaskPriority	Demand
+Task Priority	Demand
 AI Job	 10	     60
 Web App	  7	     30
 Testing	  3  	 50
