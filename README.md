@@ -64,7 +64,7 @@ Predicts resource demand based on input data.
 ---
 
 ## 📁 Project Structure
-'''
+```
 Smart-Resource-Allocation/
 │
 ├── backend/
@@ -82,7 +82,7 @@ Smart-Resource-Allocation/
 ├── .gitignore
 └── README.md
 
-'''
+```
 ---
 
 ## ⚙️ Installation & Setup
