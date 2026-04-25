@@ -109,25 +109,15 @@ POST	/add_task	Add new task
 GET	/allocate	Run allocation
 POST	/predict	ML prediction
 🧪 Sample Input
-Task	Priority	Demand
-AI Job	10	60
-Web App	7	30
-Testing	3	50
+Task	 Priority	Demand
+AI Job	 10	     60
+Web App	  7	     30
+Testing	  3  	   50
+
 📈 Expected Output
 AI Job → 60
 Web App → 30
 Testing → 10
-🐳 Docker (Optional)
-docker build -t resource-app .
-docker run -p 5000:5000 resource-app
-☁️ Deployment (Render)
-Push project to GitHub
-Connect repository to Render
-Deploy backend
-Access via public URL
-📸 Screenshots
-
-(Add your screenshots here)
 
 🎯 Applications
 Cloud Resource Management
@@ -144,6 +134,7 @@ Advanced ML models (Neural Networks)
 Real-time analytics dashboard
 Cloud auto-scaling integration
 Authentication system
+
 👨‍💻 Author
 
 Rethikaa Ramesh
@@ -155,16 +146,3 @@ This project is for educational purposes.
 
 ---
 
-# 🚀 NEXT STEP
-
-After creating `README.md`, run:
-
-```bash
-git add README.md
-git commit -m "Added README"
-git push
-🎯 RESULT
-
-✔ Your GitHub will look professional
-✔ Impress examiner 🔥
-✔ Easy to understand project
