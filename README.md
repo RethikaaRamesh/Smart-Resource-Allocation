@@ -108,12 +108,14 @@ Method	Endpoint	Description
 POST	/add_task	Add new task
 GET	/allocate	Run allocation
 POST	/predict	ML prediction
+
 🧪 Sample Input
+```
 Task	 Priority	Demand
 AI Job	 10	     60
 Web App	  7	     30
 Testing	  3  	   50
-
+```
 📈 Expected Output
 AI Job → 60
 Web App → 30
@@ -124,11 +126,13 @@ Cloud Resource Management
 Task Scheduling Systems
 Data Centers
 Distributed Systems
+
 📌 Advantages
-Efficient resource utilization
-Predictive decision making
-Scalable architecture
-User-friendly interface
+*Efficient resource utilization
+*Predictive decision making
+*Scalable architecture
+*User-friendly interface
+
 🔮 Future Enhancements
 Advanced ML models (Neural Networks)
 Real-time analytics dashboard
@@ -136,7 +140,6 @@ Cloud auto-scaling integration
 Authentication system
 
 👨‍💻 Author
-
 Rethikaa Ramesh
 
 📜 License
