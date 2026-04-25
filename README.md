@@ -110,12 +110,12 @@ GET	/allocate	Run allocation
 POST	/predict	ML prediction
 
 🧪 Sample Input
-```
+
 Task	 Priority	Demand
 AI Job	 10	     60
 Web App	  7	     30
-Testing	  3  	   50
-```
+Testing	  3  	 50
+
 📈 Expected Output
 AI Job → 60
 Web App → 30
